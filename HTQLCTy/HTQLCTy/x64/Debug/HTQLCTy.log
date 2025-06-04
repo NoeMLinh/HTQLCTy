@@ -1,0 +1,19 @@
+﻿  Source.cpp
+E:\vstudionew\HTQLCTy\Source.cpp(24,26): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vstudionew\HTQLCTy\Source.cpp(25,32): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vstudionew\HTQLCTy\Source.cpp(61,40): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      E:\vstudionew\HTQLCTy\Source.cpp(61,40):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      E:\vstudionew\HTQLCTy\Source.cpp(61,40):
+      the missing variadic argument 2 is required by format string '%[^\n]'
+      E:\vstudionew\HTQLCTy\Source.cpp(61,40):
+      this argument is used as a buffer size
+  
+E:\vstudionew\HTQLCTy\Source.cpp(62,46): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      E:\vstudionew\HTQLCTy\Source.cpp(62,46):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      E:\vstudionew\HTQLCTy\Source.cpp(62,46):
+      the missing variadic argument 2 is required by format string '%[^\n]'
+      E:\vstudionew\HTQLCTy\Source.cpp(62,46):
+      this argument is used as a buffer size
+  
