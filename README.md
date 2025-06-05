@@ -1,8 +1,10 @@
 # Báo cáo Bài tập lớn: Hệ thống Quản lý Nhân viên
 
 ## Thông tin sinh viên
-- **Họ và tên**: [Tên sinh viên]
-- **Mã sinh viên**: [Mã sinh viên]
+- **Họ và tên**: Ngô Mạnh Linh
+- **Mã sinh viên**: 20234019
+- **Họ và tên**: Nguyễn Đức Long
+- **Mã sinh viên**: 202340
 - **Môn học**: [Tên môn học]
 - **Giảng viên hướng dẫn**: [Tên giảng viên]
 
