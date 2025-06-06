@@ -4,7 +4,7 @@
 - **Họ và tên**: Ngô Mạnh Linh
 - **Mã sinh viên**: 20234019
 - **Họ và tên**: Nguyễn Đức Long
-- **Mã sinh viên**: 202340
+- **Mã sinh viên**: 20234021
 - **Môn học**: [Tên môn học]
 - **Giảng viên hướng dẫn**: [Tên giảng viên]
 
