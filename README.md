@@ -5,8 +5,8 @@
 - **Mã sinh viên**: 20234019
 - **Họ và tên**: Nguyễn Đức Long
 - **Mã sinh viên**: 20234021
-- **Môn học**: [Tên môn học]
-- **Giảng viên hướng dẫn**: [Tên giảng viên]
+- **Môn học**: Cấu trúc dữ liệu và giải thuật
+- **Giảng viên hướng dẫn**: Nguyễn Thị Kim Thoa
 
 ## I. Mục tiêu bài tập lớn
 Xây dựng một chương trình quản lý nhân viên cho công ty sử dụng ngôn ngữ C, hỗ trợ các chức năng như check-in/check-out, quản lý thông tin nhân viên, phòng ban, và sắp xếp danh sách nhân viên theo các tiêu chí khác nhau. Chương trình sử dụng danh sách liên kết đơn để tổ chức dữ liệu và đảm bảo quản lý bộ nhớ hiệu quả.
